@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843881887238",
+    "project_id": "testproject-e564a",
+    "storage_bucket": "testproject-e564a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843881887238:android:840ad0503c4f6304197587",
+        "android_client_info": {
+          "package_name": "com.example.enjoy_co_working_space"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXo3yp_nYKTiBTQ1aeK3ZnQpAo6scLTjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
